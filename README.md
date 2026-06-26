@@ -65,4 +65,4 @@ This class is used to display top scorer from all player registered in database.
 <img src="screenshots/game-window.png" width="400">
 
 ## Video Link
-YouTube: <iframe width="560" height="315" src="https://www.youtube.com/embed/YkQwEDFqlSk?si=S_5MEVoV2kc1eX24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+YouTube: https://youtu.be/YkQwEDFqlSkk
